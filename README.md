@@ -53,7 +53,7 @@ Currently, I am seeking onsite opportunities in **Bengaluru and Hyderabad** wher
 ## 📫 Connect With Me
 - **LinkedIn:** www.linkedin.com/in/shambhavighorpade-python-developer  
 - **Email:** ghorpadeshambhavi@gmail.com /shambhavighorpade4@gmail.com
-- **GitHub:** [Your GitHub Profile Link]  
+- **GitHub:** https://github.com/ghorpadeshambhavi/ghorpadeshambhavi  
 
 
 
